@@ -16,7 +16,7 @@
 #### 🏥[Reducing Hospitals Readmissions](https://app.datacamp.com/workspace/w/1dbd970b-fdc5-4d03-88ae-37838aff7330)
 #### 🚕[NYC Taxi Fare Prediction](https://github.com/al3xrods/NYC-Taxi-Fare-Prediction-Kaggle-Competition-)
 #### 🏀[Kobe Bryant Shot Prediction](https://github.com/al3xrods/Kobe-Bryant-Shot-Prediction-Kaggle-Competition-)
-#### 👺[Ghouls, Goblins, and Ghosts.](Not Set)
+#### 👺[Ghouls, Goblins, and Ghosts.](https://github.com/al3xrods/Ghouls-Goblins-and-Ghosts-Kaggle-Competition-)
 
 # 🐍Python Projects.
 
