@@ -15,7 +15,7 @@
 #### 🍇[Analyzing Wine Production/Consumption](https://app.datacamp.com/workspace/w/9f9ffd42-d45b-40ea-b1d6-763c179d3f5b)
 #### 🏥[Reducing Hospitals Readmissions](https://app.datacamp.com/workspace/w/1dbd970b-fdc5-4d03-88ae-37838aff7330)
 #### 🚕[NYC Taxi Fare Prediction](Not Set)
-#### 🏀[Kobe Bryant Shot Prediction](Not Set)
+#### 🏀[Kobe Bryant Shot Prediction](https://github.com/al3xrods/Kobe-Bryant-Shot-Prediction-Kaggle-Competition-)
 #### 👺[Ghouls, Goblins, and Ghosts.](Not Set)
 
 # 🐍Python Projects.
