@@ -2,7 +2,11 @@
 
 # 🖥️ Data Science Projects.
 #### 🍷[Designing a Promo Strategy for a Drinks Company.](https://app.datacamp.com/workspace/w/fc774eca-a1d5-4b39-a226-e73d86915648)
-* Used Dimensional Reductions Techniques
+- In this project, I aimed to identify 10 regions that have similar buying habits to Saint Petersburg, a city where a certain promotion was very successful. 
+- I performed data exploration and analysis to understand the characteristics of the data and the patterns of customer behavior. I also performed some data cleaning and preprocessing to deal with missing values, outliers, and duplicates.
+- I applied dimensionality reduction using Principal Component Analysis (PCA) to reduce the number of features and capture the most important variations in the data.
+- I applied clustering algorithms such as K-Means and hierarchical clustering methods from scipy.cluster to group the regions based on their similarity in terms of buying habits.
+- Finally, I identified the cluster that contained Saint Petersburg and extracted the other regions that belonged to the same cluster. 
 #### 🌐[Impact of Website Redesign.](https://app.datacamp.com/workspace/w/6a9e51ae-ee24-4d74-93a9-7449fe56f7d6)
 #### 💰[Reporting on Sales Data](https://app.datacamp.com/workspace/w/a30215d4-6855-4929-a367-62dedc37e4ea)
 #### 👷‍♂️[Helping Reduce Employee Turnover](https://app.datacamp.com/workspace/w/ec5ae7a2-89e0-47db-9452-6110a89b56ad)
