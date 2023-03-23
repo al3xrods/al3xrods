@@ -12,14 +12,29 @@
 - Analyzed the results using hypothesis testing, chi-square tests, and Fisher's exact test.
 - Results: Found a statistically significant increase in user engagement and revenue for the treatment group.
 #### 💰[Reporting on Sales Data](https://app.datacamp.com/workspace/w/a30215d4-6855-4929-a367-62dedc37e4ea)
-  
-  -Project Goal: Analyze past sales data of a company that sells motorcycle parts to identify trends and patterns in sales and customer behavior.
-  -Used Pandas to manipulate the data, filter and aggregate it to explore different features interactions. Used Seaborn package to visualize the data and identify patterns.
-  
+ - Project Goal: Analyze past sales data of a company that sells motorcycle parts to identify trends and patterns in sales and customer behavior.
+ - Used Pandas to manipulate the data, filter and aggregate it to explore different features interactions. Used Seaborn package to visualize the data and identify patterns.
 #### 👷‍♂️[Helping Reduce Employee Turnover](https://app.datacamp.com/workspace/w/ec5ae7a2-89e0-47db-9452-6110a89b56ad)
+ -  I used both Matplotlib and Seaborn visualizations to create histograms, scatterplots, and heatmaps.
+ - I performed several statistical tests, including the Bernard exact test and hypothesis testing, to identify significant differences between groups and test hypotheses about the data.
+  - I also used the Scikit-Learn package for modeling, preprocessing the training and test data to avoid leakage.
+  - The RandomOverSampler of Scikit-Learn imbalanced package was used for the imbalanced dataset.
+  - I worked with several classifiers, including Logistic Regression, Random Forest, Adaboost Classifier, SVMs, and XGBoost, to build a model that could accurately predict customer churn. 
+  - Evaluated the models using various metrics such as ROC-AUC and performed hyperparameter-tuning to optimize model performance.
 #### 💵[Customer Segments for Marketing Campaign](https://app.datacamp.com/workspace/w/66b04f38-08b7-4de4-b839-6f4da4d67275)
+  -  Performed hypothesis testing to identify significant differences between groups such as Chi-square test of independence of variables.
+  - Used SVD (singular value decomposition) for dimensionality reduction and clustering algorithms such as K-means.
 #### 📝[Effectiveness of Test Preparation Courses](https://app.datacamp.com/workspace/w/fc0be9da-682a-4725-948b-2c6708ec5660)
+  In this data science project, I investigated whether test preparation courses were helpful at a large school. The school offered test preparation courses to students before major exams, and the goal was to determine if students who took the courses performed better on exams than those who did not.
+ 
+  - I performed hypothesis testing using Python's scipy.stats package to test whether there was a significant difference in test scores between students who took the test preparation courses and those who did not. 
+  - I also made sure to understand the statistical tests and assumptions, such as the normality of the data and the equal variance assumption.
+  - I presented the data observations and findings in an insightful and comprehensive manner
 #### 💡[Understanding Local Electricity Market](https://app.datacamp.com/workspace/w/af6be56a-687f-4ea3-8a0d-2a1dadb79655)
+  - The Augmented Dickey-Fuller (ADF) test was used to determine whether the time-series data was stationary or non-stationary.
+  - The seasonal decomposition of time-series was used to separate the time-series data into its three main components: the trend component, the seasonal component, and the residuals.
+  - The Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) were used to measure the linear relationship between lagged values of the time series. These functions provide insights into the structure of the time series, including the presence of autocorrelation and the appropriate order of the ARMA and ARIMA models.
+  -  ARMA (Autoregressive Moving Average) and ARIMA (Autoregressive Integrated Moving Average) models were used to forecast energy prices.
 #### 🍫[Comprenhensive Analysis on Chocolate Bars](https://app.datacamp.com/workspace/w/83ec1596-1572-4d8b-a71e-71adcec067fe)
 #### ☕[Finding Best Coffee Shop Location](https://app.datacamp.com/workspace/w/5acb88ba-3302-42e8-8a07-9c7f34ff9ba0)
 #### 🦪[Estimating the Age of Abalone](https://app.datacamp.com/workspace/w/c40d328f-e38b-40e0-a375-5116e2f4db37)
