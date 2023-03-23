@@ -8,7 +8,14 @@
 - I applied clustering algorithms such as K-Means and hierarchical clustering methods from scipy.cluster to group the regions based on their similarity in terms of buying habits.
 - Finally, I identified the cluster that contained Saint Petersburg and extracted the other regions that belonged to the same cluster. 
 #### 🌐[Impact of Website Redesign.](https://app.datacamp.com/workspace/w/6a9e51ae-ee24-4d74-93a9-7449fe56f7d6)
+- Conducted an A/B test by dividing the user base into a control group (original design) and treatments groups (new design).
+- Analyzed the results using hypothesis testing, chi-square tests, and Fisher's exact test.
+- Results: Found a statistically significant increase in user engagement and revenue for the treatment group.
 #### 💰[Reporting on Sales Data](https://app.datacamp.com/workspace/w/a30215d4-6855-4929-a367-62dedc37e4ea)
+  
+  -Project Goal: Analyze past sales data of a company that sells motorcycle parts to identify trends and patterns in sales and customer behavior.
+  -Used Pandas to manipulate the data, filter and aggregate it to explore different features interactions. Used Seaborn package to visualize the data and identify patterns.
+  
 #### 👷‍♂️[Helping Reduce Employee Turnover](https://app.datacamp.com/workspace/w/ec5ae7a2-89e0-47db-9452-6110a89b56ad)
 #### 💵[Customer Segments for Marketing Campaign](https://app.datacamp.com/workspace/w/66b04f38-08b7-4de4-b839-6f4da4d67275)
 #### 📝[Effectiveness of Test Preparation Courses](https://app.datacamp.com/workspace/w/fc0be9da-682a-4725-948b-2c6708ec5660)
