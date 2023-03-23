@@ -45,31 +45,17 @@
 #### 👺[Ghouls, Goblins, and Ghosts.](https://github.com/al3xrods/Ghouls-Goblins-and-Ghosts-Kaggle-Competition-)
 
 # 🐍Python Projects.
+#### ⌨️[Wallpaper Donwloader from Unsplash](https://github.com/al3xrods/wallpaper_donwloader/tree/main)
+The script can be run in the command line, and it requires the user to specify the number of images they want to download and the theme of the images they want to download.
 
+Once the user provides the required inputs, the script then proceeds to download the specified number of images from the Unsplash.com website. The images are then automatically moved to the specified folder, and the old wallpapers in the folder are deleted to make room for the new wallpapers. This ensures that the user's desktop wallpaper is constantly being refreshed with new and interesting images, without the need for manual intervention.
+ 
+#### 📜[Quotes Scraper](https://github.com/al3xrods/quotes_scraper)
+Using the BeautifulSoup package, the script then extracts all the quotes from the figure's page, and stores them in a text file. The user can then review all the quotes in the text file, and use them for whatever purposes they desire.
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+This project is written in Python, and it uses the requests package to make HTTP requests to the Goodreads.com website, as well as the BeautifulSoup package to extract the relevant information from the HTML page.
+ 
+ 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
