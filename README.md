@@ -55,6 +55,12 @@ Using the BeautifulSoup package, the script then extracts all the quotes from th
 
 This project is written in Python, and it uses the requests package to make HTTP requests to the Goodreads.com website, as well as the BeautifulSoup package to extract the relevant information from the HTML page.
  
+#### 🔒[Simple Password Generator](https://github.com/al3xrods/password_generator)
+ This Python code generates strong and secure passwords consisting of a random combination of uppercase and lowercase letters, digits, and special characters. The user can specify the length of the password and choose whether to include or exclude certain character types. The generated password is displayed to the user and copied to the clipboard for convenience.
+ 
+#### 📂[EPUB to MOBI Conversion](https://github.com/al3xrods/Calibre-Epub-to-Mobi-Conversion)
+ This Python script is intended to automate the process of converting epub files to mobi format using Calibre application. This script is useful for Kindle users who prefer to download books in epub format and convert them to mobi using Calibre for better compatibility with Kindle devices.
+ 
  
 <!--
 
