@@ -61,6 +61,8 @@ This project is written in Python, and it uses the requests package to make HTTP
 #### 📂[EPUB to MOBI Conversion](https://github.com/al3xrods/Calibre-Epub-to-Mobi-Conversion)
  This Python script is intended to automate the process of converting epub files to mobi format using Calibre application. This script is useful for Kindle users who prefer to download books in epub format and convert them to mobi using Calibre for better compatibility with Kindle devices.
  
+# Currently Working on:
+I am currently working on understanding how neural networks function, deep learning theory and algorithms, image preprocessing, and classification. 
  
 <!--
 
