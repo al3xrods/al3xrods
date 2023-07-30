@@ -65,9 +65,8 @@ This project is written in Python, and it uses the requests package to make HTTP
 I am currently working on understanding how neural networks function, deep learning theory and algorithms, image preprocessing, and classification. 
 
 
- ## :link: Social Links
-
-[Datacamp](https://app.datacamp.com/portfolio/al3xrodz) | [LinkedIn](https://www.linkedin.com/in/alexander-rodriguez-/) | [Kaggle](https://www.kaggle.com/al3xrods)
+ # :link: Socials
+<a href="[https://www.datacamp.com/profile/your_username](https://app.datacamp.com/portfolio/al3xrodz)" target="_blank">Datacamp</a> | <a href="[https://www.linkedin.com/in/your_username](https://www.linkedin.com/in/alexander-rodriguez-/)" target="_blank">LinkedIn</a> | <a href="[https://www.kaggle.com/your_username](https://www.kaggle.com/al3xrods)" target="_blank">Kaggle</a>
 
 <!--
 
