@@ -1,5 +1,8 @@
 <h1>Hi, I'm Alex Rodriguez!
 
+ # :link: Follow Me on Socials
+<a href="https://app.datacamp.com/portfolio/al3xrodz" target="_blank">Datacamp</a> | <a href="https://www.linkedin.com/in/alexander-rodriguez-/" target="_blank">LinkedIn</a> | <a href="https://www.kaggle.com/al3xrods" target="_blank">Kaggle</a>
+
 # 🖥️ Data Science Projects.
 #### 🍷[Designing a Promo Strategy for a Drinks Company.](https://app.datacamp.com/workspace/w/fc774eca-a1d5-4b39-a226-e73d86915648)
 - In this project, I aimed to identify 10 regions that have similar buying habits to Saint Petersburg, a city where a certain promotion was very successful. 
@@ -40,8 +43,6 @@
 #### 🦪[Estimating the Age of Abalone](https://github.com/al3xrods/Abalone-Age-Prediction)
 #### 🍇[Analyzing Wine Production/Consumption](https://app.datacamp.com/workspace/w/9f9ffd42-d45b-40ea-b1d6-763c179d3f5b)
 #### 🏥[Reducing Hospitals Readmissions](https://app.datacamp.com/workspace/w/1dbd970b-fdc5-4d03-88ae-37838aff7330)
-#### 🚕[NYC Taxi Fare Prediction](https://github.com/al3xrods/NYC-Taxi-Fare-Prediction-Kaggle-Competition-)
-#### 🏀[Kobe Bryant Shot Prediction](https://github.com/al3xrods/Kobe-Bryant-Shot-Prediction-Kaggle-Competition-)
 #### 👺[Ghouls, Goblins, and Ghosts.](https://github.com/al3xrods/Ghouls-Goblins-and-Ghosts-Kaggle-Competition-)
 
 # 🐍Python Projects.
@@ -63,10 +64,6 @@ This project is written in Python, and it uses the requests package to make HTTP
  
 # Currently Working on:
 I am currently working on understanding how neural networks function, deep learning theory and algorithms, image preprocessing, and classification. 
-
-
- # :link: Follow Me on Socials
-<a href="https://app.datacamp.com/portfolio/al3xrodz" target="_blank">Datacamp</a> | <a href="https://www.linkedin.com/in/alexander-rodriguez-/" target="_blank">LinkedIn</a> | <a href="https://www.kaggle.com/al3xrods" target="_blank">Kaggle</a>
 
 <!--
 
