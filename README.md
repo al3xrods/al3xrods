@@ -4,12 +4,7 @@
 <a href="https://app.datacamp.com/portfolio/al3xrodz" target="_blank">Datacamp</a> | <a href="https://www.linkedin.com/in/alexander-rodriguez-/" target="_blank">LinkedIn</a> | <a href="https://www.kaggle.com/al3xrods" target="_blank">Kaggle</a>
 
 # 🖥️ Data Science Projects.
-#### 🍷[Designing a Promo Strategy for a Drinks Company.](https://app.datacamp.com/workspace/w/fc774eca-a1d5-4b39-a226-e73d86915648)
-- In this project, I aimed to identify 10 regions that have similar buying habits to Saint Petersburg, a city where a certain promotion was very successful. 
-- I performed data exploration and analysis to understand the characteristics of the data and the patterns of customer behavior. I also performed some data cleaning and preprocessing to deal with missing values, outliers, and duplicates.
-- I applied dimensionality reduction using Principal Component Analysis (PCA) to reduce the number of features and capture the most important variations in the data.
-- I applied clustering algorithms such as K-Means and hierarchical clustering methods from scipy.cluster to group the regions based on their similarity in terms of buying habits.
-- Finally, I identified the cluster that contained Saint Petersburg and extracted the other regions that belonged to the same cluster. 
+ 
 #### 🌐[Impact of Website Redesign.](https://app.datacamp.com/workspace/w/6a9e51ae-ee24-4d74-93a9-7449fe56f7d6)
 - Conducted an A/B test by dividing the user base into a control group (original design) and treatments groups (new design).
 - Analyzed the results using hypothesis testing, chi-square tests, and Fisher's exact test.
