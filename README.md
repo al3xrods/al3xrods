@@ -37,7 +37,7 @@
   -  ARMA (Autoregressive Moving Average) and ARIMA (Autoregressive Integrated Moving Average) models were used to forecast energy prices.
 #### 🍫[Comprenhensive Analysis on Chocolate Bars](https://app.datacamp.com/workspace/w/83ec1596-1572-4d8b-a71e-71adcec067fe)
 #### ☕[Finding Best Coffee Shop Location](https://app.datacamp.com/workspace/w/5acb88ba-3302-42e8-8a07-9c7f34ff9ba0)
-#### 🦪[Estimating the Age of Abalone](https://app.datacamp.com/workspace/w/c40d328f-e38b-40e0-a375-5116e2f4db37)
+#### 🦪[Estimating the Age of Abalone](https://github.com/al3xrods/Abalone-Age-Prediction)
 #### 🍇[Analyzing Wine Production/Consumption](https://app.datacamp.com/workspace/w/9f9ffd42-d45b-40ea-b1d6-763c179d3f5b)
 #### 🏥[Reducing Hospitals Readmissions](https://app.datacamp.com/workspace/w/1dbd970b-fdc5-4d03-88ae-37838aff7330)
 #### 🚕[NYC Taxi Fare Prediction](https://github.com/al3xrods/NYC-Taxi-Fare-Prediction-Kaggle-Competition-)
