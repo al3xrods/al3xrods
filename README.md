@@ -2,7 +2,7 @@
  
 <a href="https://app.datacamp.com/portfolio/al3xrodz" target="_blank">Datacamp</a> | <a href="https://www.linkedin.com/in/alexander-rodriguez-/" target="_blank">LinkedIn</a> | <a href="https://www.kaggle.com/al3xrods" target="_blank">Kaggle</a>
 
-# 🖥️ Data Science Projects.
+# 🖥️ Data Science Projects:
  
 #### 🌐[Impact of Website Redesign.](https://github.com/al3xrods/Website_Redesign/blob/main/Website_Redesign.ipynb)
 - Conducted an A/B test by dividing the user base into a control group (original design) and treatments groups (new design).
@@ -35,7 +35,7 @@
 #### 🦪[Estimating the Age of Abalone](https://github.com/al3xrods/Abalone-Age-Prediction)
 #### 🏥[Reducing Hospitals Readmissions](https://app.datacamp.com/workspace/w/1dbd970b-fdc5-4d03-88ae-37838aff7330)
 
-# 🐍Python Projects.
+# 🐍Python Projects:
 #### ⌨️[Wallpaper Donwloader from Unsplash](https://github.com/al3xrods/wallpaper_donwloader/tree/main)
 The script can be run in the command line, and it requires the user to specify the number of images they want to download and the theme of the images they want to download.
 
@@ -43,8 +43,6 @@ Once the user provides the required inputs, the script then proceeds to download
  
 #### 📜[Quotes Scraper](https://github.com/al3xrods/quotes_scraper)
 Using the BeautifulSoup package, the script then extracts all the quotes from the figure's page, and stores them in a text file. The user can then review all the quotes in the text file, and use them for whatever purposes they desire.
-
-This project is written in Python, and it uses the requests package to make HTTP requests to the Goodreads.com website, as well as the BeautifulSoup package to extract the relevant information from the HTML page.
  
 #### 🔒[Simple Password Generator](https://github.com/al3xrods/password_generator)
  This Python code generates strong and secure passwords consisting of a random combination of uppercase and lowercase letters, digits, and special characters. The user can specify the length of the password and choose whether to include or exclude certain character types. The generated password is displayed to the user and copied to the clipboard for convenience.
@@ -53,7 +51,7 @@ This project is written in Python, and it uses the requests package to make HTTP
  This Python script is intended to automate the process of converting epub files to mobi format using Calibre application. This script is useful for Kindle users who prefer to download books in epub format and convert them to mobi using Calibre for better compatibility with Kindle devices.
  
 # Currently Working on:
-I am currently working on understanding how neural networks function, deep learning theory and algorithms, image preprocessing, and classification. 
+ Understanding how neural networks function, deep learning theory and algorithms, image preprocessing, and classification. 
 
 <!--
 
