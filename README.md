@@ -9,9 +9,7 @@
 - Conducted an A/B test by dividing the user base into a control group (original design) and treatments groups (new design).
 - Analyzed the results using hypothesis testing, chi-square tests, and Fisher's exact test.
 - Results: Found a statistically significant increase in user conversion rate for the treatment group.
-#### 💰[Reporting on Sales Data](https://app.datacamp.com/workspace/w/a30215d4-6855-4929-a367-62dedc37e4ea)
- - Project Goal: Analyze past sales data of a company that sells motorcycle parts to identify trends and patterns in sales and customer behavior.
- - Used Pandas to manipulate the data, filter and aggregate it to explore different features interactions. Used Seaborn package to visualize the data and identify patterns.
+
 #### 👷‍♂️[Helping Reduce Employee Turnover](https://app.datacamp.com/workspace/w/ec5ae7a2-89e0-47db-9452-6110a89b56ad)
  -  I used both Matplotlib and Seaborn visualizations to create histograms, scatterplots, and heatmaps.
  - I performed several statistical tests, including the Bernard exact test and hypothesis testing, to identify significant differences between groups and test hypotheses about the data.
