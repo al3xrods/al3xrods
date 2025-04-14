@@ -5,7 +5,7 @@
 
 # 🖥️ Data Science Projects.
  
-#### 🌐[Impact of Website Redesign.](https://app.datacamp.com/workspace/w/6a9e51ae-ee24-4d74-93a9-7449fe56f7d6)
+#### 🌐[Impact of Website Redesign.](https://github.com/al3xrods/Website_Redesign/blob/main/Website_Redesign.ipynb)
 - Conducted an A/B test by dividing the user base into a control group (original design) and treatments groups (new design).
 - Analyzed the results using hypothesis testing, chi-square tests, and Fisher's exact test.
 - Results: Found a statistically significant increase in user conversion rate for the treatment group.
