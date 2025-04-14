@@ -36,7 +36,6 @@
 #### 🦪[Estimating the Age of Abalone](https://github.com/al3xrods/Abalone-Age-Prediction)
 #### 🍇[Analyzing Wine Production/Consumption](https://app.datacamp.com/workspace/w/9f9ffd42-d45b-40ea-b1d6-763c179d3f5b)
 #### 🏥[Reducing Hospitals Readmissions](https://app.datacamp.com/workspace/w/1dbd970b-fdc5-4d03-88ae-37838aff7330)
-#### 👺[Ghouls, Goblins, and Ghosts.](https://github.com/al3xrods/Ghouls-Goblins-and-Ghosts-Kaggle-Competition-)
 
 # 🐍Python Projects.
 #### ⌨️[Wallpaper Donwloader from Unsplash](https://github.com/al3xrods/wallpaper_donwloader/tree/main)
