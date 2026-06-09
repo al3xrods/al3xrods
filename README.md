@@ -1,6 +1,7 @@
 <h1>Hi, I'm Alex Rodriguez!
  
-<a href="https://www.linkedin.com/in/alexander-rodriguez-/" target="_blank">LinkedIn</a> | <a href="https://www.kaggle.com/al3xrods" target="_blank">Kaggle</a>
+<a href="https://www.linkedin.com/in/alexander-rodriguez-/" target="_blank">LinkedIn</a> | 
+<a href="https://www.kaggle.com/al3xrods" target="_blank">Kaggle</a>
 
 # 🖥️ Data Science Projects:
  
@@ -51,7 +52,7 @@ Using the BeautifulSoup package, the script then extracts all the quotes from th
  This Python script is intended to automate the process of converting epub files to mobi format using Calibre application. This script is useful for Kindle users who prefer to download books in epub format and convert them to mobi using Calibre for better compatibility with Kindle devices.
  
 # Currently Working on:
- Understanding how neural networks function, deep learning theory and algorithms, image preprocessing, and classification. 
+ Understanding how neural networks work, deep learning theory and algorithms, image preprocessing.
 
 <!--
 
