@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex Rodriguez!
  
-<a href="https://app.datacamp.com/portfolio/al3xrodz" target="_blank">Datacamp</a> | <a href="https://www.linkedin.com/in/alexander-rodriguez-/" target="_blank">LinkedIn</a> | <a href="https://www.kaggle.com/al3xrods" target="_blank">Kaggle</a>
+| <a href="https://www.linkedin.com/in/alexander-rodriguez-/" target="_blank">LinkedIn</a> | <a href="https://www.kaggle.com/al3xrods" target="_blank">Kaggle</a>
 
 # 🖥️ Data Science Projects:
  
