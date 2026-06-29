@@ -104,7 +104,6 @@ I am a **Computer Science student in my final semester**, specializing in **Data
 
 ## 🎯 Current Focus
 * **Deep Learning Theory & Architectures**: Expanding expertise in ML/DL frameworks like scikit-learn, Tensorflow & Pytorch.
-* 
 ---
 
 <div align="center">
