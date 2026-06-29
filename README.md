@@ -84,7 +84,7 @@ I am a **Computer Science student in my final semester**, specializing in **Data
 * **Features**: Automatically manages a local wallpaper directory by purging older files and moving new downloads, ensuring a fresh desktop background without manual overhead.
 * **Tech Stack**: `Python CLI` `Requests` `OS Integration`
 
-#### 📂 [EPUB to MOBI Converter](https://github.com/al3xrods/Calibre-Epub-to-Mobi-Conversion)
+#### 📂 [EPUB to MOBI Converter](https://github.com/al3xrods/calibre-epub2mobi-conversion)
 * An automation script that integrates with the Calibre application to batch-convert EPUB files to Kindle-compatible MOBI formats.
 * **Tech Stack**: `Python` `Calibre CLI Integration` `Subprocess`
 
