@@ -39,7 +39,7 @@ I am a **Computer Science student in my final semester**, specializing in **Data
 ---
 
 ### 2. 🗺️ Geospatial Data Science
-#### [Optimal Coffee Shop Location in Denver](https://app.datacamp.com/workspace/w/5acb88ba-3302-42e8-8a07-9c7f34ff9ba0)
+#### [Optimal Coffee Shop Location in Denver](https://github.com/al3xrods/optimal-cofeeshop-location)
 *Conducted a geographic suitability analysis to identify the optimal neighborhood for establishing a new coffee shop.*
 * **Methodology**: Utilized `GeoPandas` to map and analyze existing Starbucks locations in Denver, Colorado. Integrated census tract demographic data and shapefiles of Denver neighborhoods, performing spatial joins and coordinate mapping (EPSG:4326). Targeted neighborhoods with high concentrations of the primary demographic (ages 18–34).
 * **Results**: Identified the top three underserved neighborhoods matching key demographic profiles, visualizing findings via interactive `Plotly` maps and `Contextily` basemaps.
