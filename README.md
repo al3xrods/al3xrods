@@ -1,5 +1,3 @@
-# Dynamic and premium GitHub README.md for Alex Rodriguez
-readme_content = """# 🚀 Hi, I'm Alex Rodriguez! 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alexander-rodriguez-/" target="_blank">
@@ -114,8 +112,3 @@ I am a **Computer Science student in my final semester**, specializing in **Data
   <sub>Let's connect! Feel free to reach out on <a href="https://www.linkedin.com/in/alexander-rodriguez-/">LinkedIn</a> or check my work on <a href="https://www.kaggle.com/al3xrods">Kaggle</a>.</sub>
 </div>
 """
-
-with open("README_polished.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("Polished README written to README_polished.md successfully.")
