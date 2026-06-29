@@ -54,22 +54,16 @@ I am a **Computer Science student in my final semester**, specializing in **Data
 * **Results**: Trained a `HistGradientBoostingRegressor` with absolute error loss, achieving a **Test MAE of 1.71M** (a massive reduction from the 56.86M baseline).
 * **Tech Stack**: `Scikit-Learn` `NLTK (VADER)` `NetworkX` `HistGradientBoosting` `Feature Engineering`
 
-#### [Reducing Hospital Readmissions](https://app.datacamp.com/workspace/w/1dbd970b-fdc5-4d03-88ae-37838aff7330)
+#### [Reducing Hospital Readmissions](https://github.com/al3xrods/hospital-readmissions-binary-prediction)
 *Developed a predictive model to identify high-risk patients likely to be readmitted within 30 days, optimizing resource allocation.*
 * **Methodology**: Conducted exploratory data analysis on clinical features (e.g., A1C test results, age groups, medications). Preprocessed categorical features and handled class imbalance. Tuned hyperparameters using `RandomizedSearchCV` across multiple classifiers.
 * **Results**: Optimized the model specifically for the **ROC-AUC metric (achieved 0.66)** to ensure balanced sensitivity.
 * **Tech Stack**: `Scikit-Learn` `RandomizedSearchCV` `Supervised Classification` `Seaborn`
 
-#### [Helping Reduce Employee Turnover](https://app.datacamp.com/workspace/w/ec5ae7a2-89e0-47db-9452-6110a89b56ad)
-*Built a classification pipeline to predict employee churn and identify key drivers of turnover.*
-* **Methodology**: Preprocessed imbalanced training data using `RandomOverSampler` to prevent data leakage. Trained and compared multiple classifiers, including Logistic Regression, Random Forest, AdaBoost, SVMs, and `XGBoost`.
-* **Results**: Evaluated models using ROC-AUC and classification metrics to deliver a highly interpretable model indicating major churn risk factors.
-* **Tech Stack**: `Scikit-Learn` `XGBoost` `Imbalanced-Learn (RandomOverSampler)` `ROC-AUC`
-
 ---
 
 ### 4. 📈 Statistics & A/B Testing
-#### [Understanding Local Electricity Market](https://app.datacamp.com/workspace/w/af6be56a-687f-4ea3-8a0d-2a1dadb79655)
+#### [Understanding Local Electricity Market](https://github.com/al3xrods/energy-demand-prediction)
 *Analyzed and forecasted energy prices in a local electricity market using time-series analysis.*
 * **Methodology**: Assessed stationarity using the Augmented Dickey-Fuller (ADF) test. Performed STL (Seasonal and Trend decomposition using Loess) to isolate trends, seasonality, and residuals. Used Autocorrelation (ACF) and Partial Autocorrelation (PACF) to determine model orders.
 * **Results**: Implemented `ARIMA` and `ARMA` models to forecast future energy prices.
@@ -80,18 +74,12 @@ I am a **Computer Science student in my final semester**, specializing in **Data
 * **Methodology**: Analyzed user behavior across a control group (original design) and multiple treatment groups (new designs). Conducted Chi-Square tests of independence and Fisher's exact tests to evaluate conversion rate differences.
 * **Results**: Detected a statistically significant increase in conversion rates for a specific treatment group, providing data-backed recommendations for the redesign launch.
 * **Tech Stack**: `A/B Testing` `Hypothesis Testing` `Chi-Square` `Fisher's Exact Test` `Scipy.stats`
-
-#### [Customer Segments for Marketing Campaign](https://app.datacamp.com/workspace/w/66b04f38-08b7-4de4-b839-6f4da4d67275)
-*Segmented a customer base to optimize targeting for an upcoming marketing campaign.*
-* **Methodology**: Applied Singular Value Decomposition (SVD) for dimensionality reduction. Clustered the reduced feature space using `K-Means`. Used Chi-Square tests to validate the independence of demographic features across clusters.
-* **Results**: Defined distinct, actionable customer personas to guide personalized marketing strategies.
-* **Tech Stack**: `K-Means Clustering` `SVD` `Dimensionality Reduction` `Chi-Square Test`
-
+* 
 ---
 
 ## 🐍 Python Automation & Utilities
 
-#### 🖼️ [Unsplash Wallpaper Downloader](https://github.com/al3xrods/wallpaper_donwloader)
+#### 🖼️ [Unsplash Wallpaper Downloader](https://github.com/al3xrods/unsplash-wallpaper-downloader)
 * A CLI automation tool that downloads themed wallpapers from Unsplash.
 * **Features**: Automatically manages a local wallpaper directory by purging older files and moving new downloads, ensuring a fresh desktop background without manual overhead.
 * **Tech Stack**: `Python CLI` `Requests` `OS Integration`
