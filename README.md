@@ -103,12 +103,10 @@ I am a **Computer Science student in my final semester**, specializing in **Data
 ---
 
 ## 🎯 Current Focus
-* **Deep Learning Theory & Architectures**: Expanding expertise in convolutional neural networks, transfer learning, and image preprocessing.
-* **Advanced NLP**: Exploring transformer models and text embedding techniques.
-
+* **Deep Learning Theory & Architectures**: Expanding expertise in ML/DL frameworks like scikit-learn, Tensorflow & Pytorch.
+* 
 ---
 
 <div align="center">
   <sub>Let's connect! Feel free to reach out on <a href="https://www.linkedin.com/in/alexander-rodriguez-/">LinkedIn</a> or check my work on <a href="https://www.kaggle.com/al3xrods">Kaggle</a>.</sub>
 </div>
-"""
