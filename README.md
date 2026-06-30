@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Computer Science student in my final semester**, specializing in **Data Science and Machine Learning**. I enjoy translating complex datasets into actionable business insights and building robust predictive models. My expertise spans Deep Learning, Geospatial Analysis, Time-Series Forecasting, and Classical Machine Learning.
+I am a **Computer Science student in my final semester**, specializing in **Data Science and Machine Learning**. I enjoy translating complex datasets into actionable business insights and building robust predictive models.
 
 ---
 
@@ -93,7 +93,3 @@ I am a **Computer Science student in my final semester**, specializing in **Data
 ## 🎯 Current Focus
 * **Deep Learning Theory & Architectures**: Expanding expertise in ML/DL frameworks like scikit-learn, Tensorflow & Pytorch.
 ---
-
-<div align="center">
-  <sub>Let's connect! Feel free to reach out on <a href="https://www.linkedin.com/in/alexander-rodriguez-/">LinkedIn</a> or check my work on <a href="https://www.kaggle.com/al3xrods">Kaggle</a>.</sub>
-</div>
